@@ -8,3 +8,5 @@ b = ones(N,1);
 x = A\b;
 
 fprintf('Norm of x = %g\n', norm(x));
+
+%% Add some new stuff to the test branch...
