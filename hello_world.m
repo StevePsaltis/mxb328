@@ -9,6 +9,6 @@ C = 2 * ones(M, 1);
 
 x = A\b;
 
-fprintf('Norm of x = %g\n', norm(x));
+fprintf('What does the norm of x equal?%g\n', norm(x));
 
 %% Add some new stuff to the test branch...
